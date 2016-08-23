@@ -1,3 +1,3 @@
-this is my first git
-my name is li lei
-her name is han meimei
+this is my second git
+my name is han meimei
+his name is li lei
